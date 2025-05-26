@@ -8,7 +8,7 @@ This is my personal portfolio site built using HTML, CSS, and JavaScript.
 - Projects showcase
 
 ## Live Demo
-[Click Here](https://your-site-link.com)
+[Click Here](https://lucent-dodol-a0e504.netlify.app/)
 
 ## Author
 Sawan Panwar
